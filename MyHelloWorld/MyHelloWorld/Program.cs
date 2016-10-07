@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-class MyLittleProject
+class MyLittleProject//first attempt at an edit
 {
     static void Main()
     {
